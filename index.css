@@ -56,3 +56,39 @@ h1{
     background-repeat: no-repeat ;
     background-position: right;
 }
+.h2-fontsize{
+    font-size: 30px;
+}
+.orange{
+    color: rgb(248, 109, 10);
+}
+.experience
+{
+    text-shadow: 2px 3px;
+}
+.exp-item{
+    margin: 5%;
+    width: 50%;
+    box-shadow: 10px 10px 10px 8px gray; 
+    
+    
+}
+.image-add{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#exp-border-left{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    border-radius: 10px;
+}
+#exp-border-quran{
+    border-left: 5px solid;
+    border-image: linear-gradient(purple,red);
+    border-image-slice: 1;
+}
+footer p {
+    text-align: center;
+}
