@@ -12,13 +12,17 @@ section{
     display:flex;
 }
 .width-half{
+    margin: 5git add 0px;
     width: 40%;
     padding-left: 5%;
+    
 }
 .width-half img{
-    height: 75%;
-    width: 60%;
+    margin: 200 px;
+    height: 80%;
+    width: 65%;
     padding: 60px;
+     
    
 }
 .link-button{
@@ -33,4 +37,17 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.image{
+    border-radius: 50%;
+}
+
+
+    
+    
+.IMAGE2{
+    border-radius: 50%;
+}
+.color{
+    color: rgb(252, 112, 13);
 }
