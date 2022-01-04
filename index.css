@@ -8,7 +8,7 @@ h1{
 .pro {
     color: rgb(240, 139, 15);
 }
-section{
+.container-terms{
     display:flex;
 }
 .width-half{
